@@ -106,7 +106,7 @@ position: fixed;
 #slider{
 margin-top: 54px;
 padding-top: 50%;
-background: url('/assets/img/architect.jpg') top center / cover no-repeat; 
+background: url('../img/architect.jpg') top center / cover no-repeat; 
    top: 100%;
    left: 0;
    position: relative;
